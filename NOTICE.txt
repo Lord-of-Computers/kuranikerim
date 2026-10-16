@@ -1,0 +1,11 @@
+Üçüncü taraf bileşenler
+
+1) Kur'an metni (Arapça) ve Türkçe meal: quran-json projesi / Quranenc.com
+   Lisans: Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)
+2) Latin okunuş: Tanzil.net (transliteration)
+3) Yazı tipi: Amiri Quran — SIL Open Font License 1.1
+4) Sesli okuma: everyayah.com üzerinden internetle akıtılır; ses dosyaları
+   uygulamaya dahil değildir, hakları kâri ve yayıncılarına aittir.
+5) Uygulamadaki görseller bu proje için üretilmiş SVG/CSS çizimleridir.
+
+Hadis metinleri anlamca aktarılmıştır; kaynaklarıyla karşılaştırınız.
